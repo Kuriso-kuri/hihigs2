@@ -13,4 +13,4 @@
 Отсутсвуют
 
 ## Ссылка на сайт
-Ссылка: 
+Ссылка: https://kuriso-kuri.github.io/hihigs2/
