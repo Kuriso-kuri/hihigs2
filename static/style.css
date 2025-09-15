@@ -1,0 +1,59 @@
+*{
+    margin :0 ;
+    padding: 0;
+    box-sizing: border-box;
+}
+input,button{
+    border: none;
+    outline: none;
+    font-family: inherit;
+    font-size: inherit;
+}
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+input {
+    border: 3px solid purple;
+    border-radius: 10px;
+    padding: 5px;
+
+}
+
+input:focus {
+    background-color: cadetblue;
+
+
+}
+button {
+    padding: 5px;
+    border: 3px solid blue;
+    border-radius: 10px;
+    background-color: black;
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif';
+
+}
+button:hover{
+    background-color: rgb(59, 154, 65);
+    color:blue;
+
+}
+
+#ContactForm{
+    border: 3px solid;
+    border-radius: 10px;
+    background-color: rgb(37, 102, 158);
+    padding: 10px;
+    max-width: 250px; 
+}
+
+.error{
+    border: 3px solid red;
+    border-radius: 10px;
+    background-color: lightcoral;
+    color: brown;
+
+}
